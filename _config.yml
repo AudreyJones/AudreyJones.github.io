@@ -1,11 +1,11 @@
 # Site settings
 author: Audrey Jones
-title: 
+title: Software Development Blog
 header-img: img/home-bg.png
 email: audrey.eliz.jones@gmail.com
 copyright_name: Audrey Jones
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My path to becoming a developer!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AudreyJones
